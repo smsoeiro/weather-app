@@ -1,0 +1,22 @@
+body {
+  background-color: #1b7fbd;
+  margin: auto;
+}
+h1 {
+  color: #f6ef98;
+  font-family: "Swanky and Moo Moo", cursive;
+  text-align: center;
+  font-weight: 100px;
+  font-size: 76px;
+}
+.i {
+  display: block;
+  padding: 20px;
+  margin: auto;
+  font-weight: 900px;
+}
+.button {
+  padding: 20px auto 20px auto;
+  display: block;
+  margin: 50px auto 50px auto;
+}
